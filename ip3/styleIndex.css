@@ -1,0 +1,11 @@
+.list li{
+ list-style: none;
+ text-align: center;
+ border: 0.5rem solid black;
+ border-radius: 0.5rem;
+ font-size: 25px;
+}
+
+.nadpis{
+    text-align: center;
+}

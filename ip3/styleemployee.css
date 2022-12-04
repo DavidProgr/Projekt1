@@ -1,0 +1,11 @@
+.klice{
+    list-style-type: none;
+}
+
+.Nadpis{
+    font-weight: bold;
+}
+
+.container{
+    padding-left: 2rem;
+}
